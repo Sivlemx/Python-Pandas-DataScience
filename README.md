@@ -28,7 +28,7 @@ conda list
 
 	Liberías necesarias para hacer cositas
 conda install pandas numpy matplotlib seaborn xlrd -y
-conda install -c conda-forge notebook jupyterlab -y
+conda install -c conda-forge statsmodels notebook jupyterlab -y
 pip install tqdm
 
 	Revisión de nuestras librerías
