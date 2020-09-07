@@ -31,6 +31,9 @@ conda install pandas numpy matplotlib seaborn xlrd openpyxl -y
 conda install -c conda-forge statsmodels notebook jupyterlab -y
 pip install tqdm
 
+Para pruebas post hoc
+pip install scikit-posthocs
+
 	Revisión de nuestras librerías
 conda list
 ~~~
