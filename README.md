@@ -31,7 +31,10 @@ conda install pandas numpy matplotlib seaborn xlrd openpyxl -y
 conda install -c conda-forge statsmodels notebook jupyterlab -y
 pip install tqdm
 
-Para pruebas post hoc
+	Para observar datos y generar reportes [Pandas Profiling](https://pandas-profiling.github.io/pandas-profiling/docs/master/)
+conda install -c conda-forge pandas-profiling
+
+	Para pruebas post hoc
 pip install scikit-posthocs
 
 	Revisión de nuestras librerías
